@@ -1,4 +1,11 @@
 {
     "name": "vs/php-framework",
+    "description": "PHP Framework",
+    "authors": [
+        {
+            "name": "vaso sulashvili",
+            "email": "v.sulashvili@gmail.com"
+        }
+    ],
     "require": {}
 }
